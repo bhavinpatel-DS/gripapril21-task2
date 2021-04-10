@@ -12,4 +12,6 @@ Prediction using Unsupervised ML (Level - Beginner)
 
 ● Dataset : https://bit.ly/3kXTdox
 
-● Sample Solution : https://youtu.be/rpeLsxO1NoU
+● YouTube : https://youtu.be/rpeLsxO1NoU
+
+● GitHub  : https://github.com/bhavinpatel-DS/gripapril21-task2.git
